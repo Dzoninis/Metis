@@ -1,2 +1,3 @@
 Welcome to registration page!
 I agree to Terms and Conditions
+I agree to receive emails
