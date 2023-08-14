@@ -1,1 +1,2 @@
 Welcome to registration page!
+I agree to Terms and Conditions
