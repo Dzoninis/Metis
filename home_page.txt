@@ -3,6 +3,7 @@ Welcome to home page!
 Nav:
 Home >
 Login >
-Register >
+Register >  Enter username: ________________
+            Enter password: ________________
 
 Welcome to Metis!
