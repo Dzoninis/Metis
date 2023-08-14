@@ -7,3 +7,6 @@ Register >  Enter username: ________________
             Enter password: ________________
 
 Welcome to Metis!
+
+
+Contact us hello@metis.com
